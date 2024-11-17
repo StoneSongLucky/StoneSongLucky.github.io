@@ -17,16 +17,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Associate professor in the College of Computer Science at Chongqing University of Technology, and a master’s supervisor.Received the doctoral degree from the University of Electronic Science and Technology of China in December 2017; joined the School of Computer Science of Chongqing University of Technology as a lecturer in January 2018; was awarded the title of associate professor of Computer Science and Technology in December 2021; entered the postdoctoral workstation of Changan Automobile Co., Ltd. in January 2022 and engaged in the research of license plate recognition algorithms in the garage environment.
+Song is currently an Associate Professor. He has conducted in-depth research in machine learning, intelligent signal processing, big data analysis, and deep learning. He has presided over the National Youth Fund (No. 40804112) and the Youth Project of Science and Technology Research Program of Chongqing Education Commission of China (No. KJQN202001143). At present, more than 30 pieces of SCI retrieval papers have been published in important journals and conferences at home and abroad, such as “Computer & Geoscience”，“Geophysical Prospecting”，“IEEE Geoscience and remote sensing letters” and “IEEE International Conference on acoustics, speech, and signal processing”.
 
-With over 30 SCI-indexed papers published in significant domestic and international academic journals, I have also led one National Natural Science Foundation of China (NSFC) project and one Chongqing Municipal Education Commission Scientific Research Project. Additionally, I have participated in two Chongqing Municipal Science and Technology Commission projects. Currently, I serve as a reviewer for the NSFC and several domestic and international journals. My research group maintains excellent cooperative relationships with institutions such as the University of Electronic Science and Technology of China and JD Urban Computing Research Institute, providing good career development and further education opportunities for graduate students pursuing doctoral studies or employment.
+# 📖 Educations & Employment Histroy
+- *2024.09 - 2025.06*: University of Science and Technology of China, Visiting Scholar, Supervisor: Wu Xinming
+- *2021.01 - 2024.05*: Joint postdoctoral fellow of Changan Automobile Co., Ltd. and Chongqing University, Supervisor: Feng Gang, Zhang Xiaohong
+- *2020.01 - now*: Chongqing University of Technology, Department of Big Data and Machine Learning, Associate Professor
+- *2018.01 - 2020.12*: Chongqing University of Technology, Department of Big Data and Machine Learning, Lecturer
+- *2013.09 - 2017.12*: University of Electronic Science and Technology of China, School of Information and Communication Engineering, Ph.D., Supervisor: Hu Guangmin, Li Xingming
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+# 💻 Research Interests
+- Intelligent Signal Analysis
+- Cluster Analysis
+- Image Denoising
+- Computer Vision
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11*: &nbsp;🎉🎉 Zhang Tian won the Second Prize in the Huawei Cup Graduate Mathematical Modeling Competition. 
+- *2024.06*: &nbsp;🎉🎉 Congratulations to Li Chengxi, Zhang Kai, Gou Pengfei and Gou Yi on obtaining their master's degrees. During their postgraduate period, they published three papers, won three postgraduate innovation projects and won the third prize in the Asia-Pacific Mathematical Modeling Competition.
+- *2023.09*: &nbsp;🎉🎉 Congratulations to Li Lin and Qiu Lianpeng on winning the Excellent Master's Thesis Awards.
+- *2023.06*: &nbsp;🎉🎉 Congratulations to Li Lin, Qiu Lianpeng, Zhang Yin and Xiong Chuanchao on obtaining their master's degrees. During their postgraduate period, they published six SCI papers, won three postgraduate innovation projects and won the third prize in the National Mathematical Modeling Competition.
+- *2022.06*: &nbsp;🎉🎉 Congratulations to Wu Ziteng and Chen Yunqing on obtaining their master's degrees. During their postgraduate period, they published two papers and won one postgraduate innovation project.
+- *2021.06*: &nbsp;🎉🎉 Congratulations to Li Lingxuan on obtaining the master's degree. During the postgraduate period, published two SCI papers.
 
 # 📝 Publications 
 
