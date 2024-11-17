@@ -43,31 +43,72 @@ Song is currently an Associate Professor. He has conducted in-depth research in 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+2024
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/ESDTW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[ESDTW: Extrema-based shape dynamic time warping](https://www.sciencedirect.com/science/article/abs/pii/S0957417423029342)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Qiu, Lianpeng, Cuipeng Qiu, and **Chengyun Song**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Details:** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This paper develop the extrema-based shape dynamic time warping (ESDTW) for the purpose of fast and accurate alignment of time series, and has pulished in Expert Systems with Applications 239 (2024): 122432. （SCI，JCR一区） 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Aoxiang Ning, Minglong Xue, Jinhong He, Chengyun Song. "KAN see in the dark[J]." arXiv preprint arXiv:2409.03404, 2024.[paper](https://arxiv.org/abs/2409.03404)
+- Jinhong He, Minglong Xue, Aoxiang Ning, Chengyun Song. "Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement." Asian Conference on Machine Learning, Hanoi, Vietnam, 2024 (CCF-C)[paper](https://arxiv.org/abs/2403.02879)
+- Song, Chengyun, et al. "Regularized deep learning for unsupervised random noise attenuation in poststack seismic data." Journal of Geophysics and Engineering 21.1 (2024): 60-67. （SCI，JCR三区）
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+2023
+- Li, Lin, Xiang Chen, and Chengyun Song. "A self-adaptive graph-based clustering method with noise identification." Pattern Analysis and Applications 26.3 (2023): 907-916. （SCI，JCR四区，CCF推荐期刊）
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/ESDTW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+[Self-paced deep clustering with learning loss](https://www.sciencedirect.com/science/article/abs/pii/S0167865523001289)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+Kai Zhang, Chengyun Song, and Lianpeng Qiu
+
+**Details:** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A robust self-paced deep clustering algorithm, named SDCLL, is proposed.And has pulished in Pattern Recognition Letters 171 (2023): 8-14.[code](https://github.com/clustering106/SDCLL)
+</div>
+</div>
+
+- Li, Lin, Xiang Chen, and Chengyun Song. "NonPC: Non-parametric clustering algorithm with adaptive noise detecting." Intelligent Data Analysis 27.5 (2023): 1347-1358. （SCI，JCR四区，CCF推荐期刊）
+
+2022
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/ESDTW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PSND: A Robust Parking Space Number Detector](https://ieeexplore.ieee.org/abstract/document/9956060)
+
+Yin Zhang, Chengyun Song, Minglong Xue
+
+**Details:** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This paper proposes a robust Parking Space Number Detector (PSND), which enhances the Differentiable Binarization (DB) model by introducing a cascaded feature enhancement module and context attention block. 2022 26th International Conference on Pattern Recognition (ICPR), Montreal, QC, Canada, 2022, pp. 1742-1748.
+</div>
+</div>
+
+- Song, Chengyun, et al. "Dynamic subwindow matching: A new similarity measure for seismic facies analysis." Geophysical Prospecting 70.7 (2022): 1129-1142. （SCI，JCR三区）
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/ESDTW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A robust clustering method with noise identification based on directed K-nearest neighbor graph](https://www.sciencedirect.com/science/article/abs/pii/S0925231222010049)
+
+Lin Li, Xiang Chen, Chengyun Song
+
+**Details:** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This paper proposes a simple and effective clustering method termed CDKNN based on the k-nearest neighbor graph, which is conducive to processing complex nonlinear and tightly connected distributed patterns. And has pulished in Neurocomputing 508 (2022): 19-35. （SCI，JCR二区，CCF推荐期刊）
+</div>
+</div>
+
+before 2022
+- Song, Chengyun, et al. "Robust K-means algorithm with weighted window for seismic facies analysis." Journal of Geophysics and Engineering 18.5 (2021): 618-626. （SCI，JCR三区）
+- Song, Chengyun, et al. "Application of Dynamic Time Warping in Weighted Stacking of Seismic Data." IEEE Geoscience and Remote Sensing Letters 19 (2021): 1-5. （SCI，JCR二区）
+- Bin She, Yaojun Wang, Jiandong Liang, Zhining Liu, Chengyun Song, and Guangmin Hu. "A data-driven amplitude variation with offset inversion method via learned dictionaries and sparse representation[J]." Geophysics, 2018, 83(6): R725-R748.（SCI，JCR二区刊）
+- Chengyun Song, Zhining Liu, Yaojun Wang,et al. "Multi-waveform classification for seismic facies analysis[J]." Computers & Geosciences, 2017, 101: 1-9.（SCI，JCR二区）
+
+
+
