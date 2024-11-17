@@ -63,7 +63,7 @@ Qiu, Lianpeng, Cuipeng Qiu, and **Chengyun Song**
 2023
 - Li, Lin, Xiang Chen, and Chengyun Song. "A self-adaptive graph-based clustering method with noise identification." Pattern Analysis and Applications 26.3 (2023): 907-916. （SCI，JCR四区，CCF推荐期刊）
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/ESDTW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ESDTW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Self-paced deep clustering with learning loss](https://www.sciencedirect.com/science/article/abs/pii/S0167865523001289)
@@ -78,7 +78,7 @@ Kai Zhang, Chengyun Song, and Lianpeng Qiu
 - Li, Lin, Xiang Chen, and Chengyun Song. "NonPC: Non-parametric clustering algorithm with adaptive noise detecting." Intelligent Data Analysis 27.5 (2023): 1347-1358. （SCI，JCR四区，CCF推荐期刊）
 
 2022
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/ESDTW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ESDTW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PSND: A Robust Parking Space Number Detector](https://ieeexplore.ieee.org/abstract/document/9956060)
@@ -92,7 +92,7 @@ Yin Zhang, Chengyun Song, Minglong Xue
 
 - Song, Chengyun, et al. "Dynamic subwindow matching: A new similarity measure for seismic facies analysis." Geophysical Prospecting 70.7 (2022): 1129-1142. （SCI，JCR三区）
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/ESDTW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ESDTW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A robust clustering method with noise identification based on directed K-nearest neighbor graph](https://www.sciencedirect.com/science/article/abs/pii/S0925231222010049)
