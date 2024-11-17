@@ -44,7 +44,7 @@ Song is currently an Associate Professor. He has conducted in-depth research in 
 # 📝 Publications 
 
 2024
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/ESDTW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ESDTW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ESDTW: Extrema-based shape dynamic time warping](https://www.sciencedirect.com/science/article/abs/pii/S0957417423029342)
