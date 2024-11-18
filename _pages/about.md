@@ -53,7 +53,7 @@ Song has conducted in-depth research in machine learning, intelligent signal pro
 Qiu, Lianpeng, Cuipeng Qiu, and **Chengyun Song**
 
 **Details:** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This paper develop the extrema-based shape dynamic time warping (ESDTW) for the purpose of fast and accurate alignment of time series, and has pulished in Expert Systems with Applications 239 (2024): 122432. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423029342)（SCI，JCR一区） 
+- This paper develop the extrema-based shape dynamic time warping (ESDTW) for the purpose of fast and accurate alignment of time series, and has pulished in Expert Systems with Applications 239 (2024): 122432. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423029342)（SCI，一区） 
 </div>
 </div>
 
