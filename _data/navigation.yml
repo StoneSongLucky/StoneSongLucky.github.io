@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Educations & Employment Histroy"
-    url: "/#educations-&-employment-histroy"
+  - title: "Educations and Employment Histroy"
+    url: "/#educations-and-employment-histroy"
 
   - title: " Research Interests"
     url: "/#research-interests"
