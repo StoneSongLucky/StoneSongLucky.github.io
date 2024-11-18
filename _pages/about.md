@@ -53,12 +53,12 @@ Song has conducted in-depth research in machine learning, intelligent signal pro
 Qiu, Lianpeng, Cuipeng Qiu, and **Chengyun Song**
 
 **Details:** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This paper develop the extrema-based shape dynamic time warping (ESDTW) for the purpose of fast and accurate alignment of time series, and has pulished in Expert Systems with Applications 239 (2024): 122432. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423029342)（SCI，一区） 
+- This paper develop the extrema-based shape dynamic time warping (ESDTW) for the purpose of fast and accurate alignment of time series, and has pulished in Expert Systems with Applications 239 (2024): 122432. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423029342)（SCI, 一区） 
 </div>
 </div>
 
 - Aoxiang Ning, Minglong Xue, Jinhong He, **Chengyun Song**. "KAN see in the dark." arXiv preprint arXiv:2409.03404, 2024. [paper](https://arxiv.org/abs/2409.03404)
-- Jinhong He, Minglong Xue, Aoxiang Ning, **Chengyun Song**. "Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement." Asian Conference on Machine Learning, Hanoi, Vietnam, 2024 (CCF-C国际会议) [paper](https://arxiv.org/abs/2403.02879)
+- Jinhong He, Minglong Xue, Aoxiang Ning, **Chengyun Song**. "Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement." Asian Conference on Machine Learning, Hanoi, Vietnam, 2024  [paper](https://arxiv.org/abs/2403.02879) (CCF-C国际会议)
 - **Chengyun Song**, Shutao Guo, Chuanchao Xiong, Jiying Tuo. "Regularized deep learning for unsupervised random noise attenuation in poststack seismic data." Journal of Geophysics and Engineering 21.1 (2024): 60-67. [paper](https://academic.oup.com/jge/article/21/1/60/7420510)（SCI，JCR三区）
 
 2023
@@ -71,7 +71,7 @@ Qiu, Lianpeng, Cuipeng Qiu, and **Chengyun Song**
 Kai Zhang, **Chengyun Song**, and Lianpeng Qiu
 
 **Details:** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This paper propose a robust self-paced deep clustering algorithm that gradually increases the number of samples input into the network from easy to difficult, and has pulished in Pattern Recognition Letters 171 (2023): 8-14.[paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865523001289) [code](https://github.com/clustering106/SDCLL)
+- This paper propose a robust self-paced deep clustering algorithm that gradually increases the number of samples input into the network from easy to difficult, and has pulished in Pattern Recognition Letters 171 (2023): 8-14.[paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865523001289) [code](https://github.com/clustering106/SDCLL) （SCI，三区，CCF推荐期刊）
 </div>
 </div>
 
