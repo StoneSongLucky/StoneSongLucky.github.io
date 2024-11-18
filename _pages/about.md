@@ -58,7 +58,7 @@ Qiu, Lianpeng, Cuipeng Qiu, and **Chengyun Song**
 </div>
 
 - Aoxiang Ning, Minglong Xue, Jinhong He, **Chengyun Song**. "KAN see in the dark." arXiv preprint arXiv:2409.03404, 2024. [paper](https://arxiv.org/abs/2409.03404)
-- Jinhong He, Minglong Xue, Aoxiang Ning, **Chengyun Song**. "Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement." Asian Conference on Machine Learning, Hanoi, Vietnam, 2024 (CCF-C) [paper](https://arxiv.org/abs/2403.02879)
+- Jinhong He, Minglong Xue, Aoxiang Ning, **Chengyun Song**. "Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement." Asian Conference on Machine Learning, Hanoi, Vietnam, 2024 (CCF-C国际会议) [paper](https://arxiv.org/abs/2403.02879)
 - **Chengyun Song**, Shutao Guo, Chuanchao Xiong, Jiying Tuo. "Regularized deep learning for unsupervised random noise attenuation in poststack seismic data." Journal of Geophysics and Engineering 21.1 (2024): 60-67. [paper](https://academic.oup.com/jge/article/21/1/60/7420510)（SCI，JCR三区）
 
 2023
@@ -88,7 +88,7 @@ Kai Zhang, **Chengyun Song**, and Lianpeng Qiu
 Yin Zhang, **Chengyun Song**, Minglong Xue
 
 **Details:** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This paper collected and annotated 9000 parking space number images, and proposes a robust parking space number detector (PSND) algorithm, which has publised in 2022 26th International Conference on Pattern Recognition (ICPR), 2022 [paper](https://ieeexplore.ieee.org/abstract/document/9956060)
+- This paper collected and annotated 9000 parking space number images, and proposes a robust parking space number detector (PSND) algorithm, which has publised in 2022 26th International Conference on Pattern Recognition (ICPR), 2022 (CCF-C国际会议) [paper](https://ieeexplore.ieee.org/abstract/document/9956060)
 </div>
 </div>
 
