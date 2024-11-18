@@ -58,7 +58,7 @@ Qiu, Lianpeng, Cuipeng Qiu, and **Chengyun Song**
 
 - Aoxiang Ning, Minglong Xue, Jinhong He, **Chengyun Song**. "KAN see in the dark." arXiv preprint arXiv:2409.03404, 2024. [paper](https://arxiv.org/abs/2409.03404)
 - Jinhong He, Minglong Xue, Aoxiang Ning, **Chengyun Song**. "Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement." Asian Conference on Machine Learning, Hanoi, Vietnam, 2024 (CCF-C) [paper](https://arxiv.org/abs/2403.02879)
-- Song, Chengyun, et al. "Regularized deep learning for unsupervised random noise attenuation in poststack seismic data." Journal of Geophysics and Engineering 21.1 (2024): 60-67. （SCI，JCR三区）
+- **Chengyun Song**, Shutao Guo, Chuanchao Xiong, Jiying Tuo. "Regularized deep learning for unsupervised random noise attenuation in poststack seismic data." Journal of Geophysics and Engineering 21.1 (2024): 60-67. [paper](https://academic.oup.com/jge/article/21/1/60/7420510)（SCI，JCR三区）
 
 2023
 - Li, Lin, Xiang Chen, and Chengyun Song. "A self-adaptive graph-based clustering method with noise identification." Pattern Analysis and Applications 26.3 (2023): 907-916. （SCI，JCR四区，CCF推荐期刊）
