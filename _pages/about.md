@@ -19,6 +19,8 @@ redirect_from:
 
 Song has conducted in-depth research in machine learning, intelligent signal processing, big data analysis, and deep learning. He has presided over the National Youth Fund and the Youth Project of Science and Technology Research Program of Chongqing Education Commission of China. At present, more than 30 pieces of SCI retrieval papers have been published in important journals and conferences at home and abroad, such as "Pattern Recognition Letters", “Computer & Geoscience”，“Geophysical Prospecting”，“IEEE Geoscience and remote sensing letters” and “IEEE International Conference on acoustics, speech, and signal processing”.
 
+
+<span class='anchor' id='educations & employment histroy'></span>
 # 📖 Educations & Employment Histroy
 - *2020.01 - now*: Chongqing University of Technology, Department of Big Data and Machine Learning, Associate Professor
 - *2018.01 - 2020.12*: Chongqing University of Technology, Department of Big Data and Machine Learning, Lecturer
@@ -26,13 +28,14 @@ Song has conducted in-depth research in machine learning, intelligent signal pro
 - *2021.01 - 2024.05*: Joint postdoctoral fellow of Changan Automobile Co., Ltd. and Chongqing University, Supervisor: Feng Gang, Zhang Xiaohong
 - *2013.09 - 2017.12*: University of Electronic Science and Technology of China, School of Information and Communication Engineering, Ph.D., Supervisor: Hu Guangmin, Li Xingming
 
-
+<span class='anchor' id='research interests'></span>
 # 💻 Research Interests
 - Intelligent Signal Analysis
 - Cluster Analysis
 - Image Denoising
 - Computer Vision
 
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 Zhang Tian won the Second Prize in the Huawei Cup Graduate Mathematical Modeling Competition. 
 - *2024.06*: &nbsp;🎉🎉 Congratulations to Li Chengxi, Zhang Kai, Gou Pengfei and Gou Yi on obtaining their master's degrees. During their postgraduate period, they published three papers, won 3 postgraduate innovation projects and the third prize in the Asia-Pacific Mathematical Modeling Competition.
@@ -40,6 +43,9 @@ Song has conducted in-depth research in machine learning, intelligent signal pro
 - *2023.06*: &nbsp;🎉🎉 Congratulations to Li Lin, Qiu Lianpeng, Zhang Yin and Xiong Chuanchao on obtaining their master's degrees. During their postgraduate period, they published 6 SCI papers, won 3 postgraduate innovation projects and the third prize in the National Mathematical Modeling Competition.
 - *2022.06*: &nbsp;🎉🎉 Congratulations to Wu Ziteng and Chen Yunqing on obtaining their master's degrees. During their postgraduate period, they published 2 papers and won 1 postgraduate innovation project.
 - *2021.06*: &nbsp;🎉🎉 Congratulations to Li Lingxuan on obtaining the master's degree. During the postgraduate period, he published 2 SCI papers.
+
+
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications 
 
@@ -114,5 +120,7 @@ before 2022
 - **Song, Chengyun**, et al. "Adaptive phase k-means algorithm for waveform classification." Exploration Geophysics 49.2 (2018): 213-219. [paper](https://www.tandfonline.com/doi/abs/10.1071/EG16111)（SCI, 四区）
 - **Chengyun Song**, et al. "Multi-waveform classification for seismic facies analysis." Computers & Geosciences, 2017, 101: 1-9. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300416308639)（SCI, 二区, CCF推荐期刊）
 
+
+<span class='anchor' id='join'></span>
 # ⭐️ Join Us?
 Discussions or cooperations are warmly welcome. If you want to join my group, please feel free to contact me via Email at scyer123@163.com.
