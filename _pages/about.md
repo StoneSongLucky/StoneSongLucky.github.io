@@ -21,7 +21,7 @@ Song has conducted in-depth research in machine learning, intelligent signal pro
 
 
 <span class='anchor' id='educations-&-employment-histroy'></span>
-# 📖 Educations & Employment Histroy
+# 📖 Educations and Employment Histroy
 - *2020.01 - now*: Chongqing University of Technology, Department of Big Data and Machine Learning, Associate Professor
 - *2018.01 - 2020.12*: Chongqing University of Technology, Department of Big Data and Machine Learning, Lecturer
 - *2024.09 - 2025.06*: University of Science and Technology of China, Visiting Scholar, Supervisor: Wu Xinming
