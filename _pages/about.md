@@ -114,6 +114,5 @@ before 2022
 - **Song, Chengyun**, et al. "Adaptive phase k-means algorithm for waveform classification." Exploration Geophysics 49.2 (2018): 213-219. [paper](https://www.tandfonline.com/doi/abs/10.1071/EG16111)（SCI, 四区）
 - **Chengyun Song**, et al. "Multi-waveform classification for seismic facies analysis." Computers & Geosciences, 2017, 101: 1-9. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300416308639)（SCI, 二区, CCF推荐期刊）
 
-⭐️ Join Us?
+# ⭐️ Join Us?
 Discussions or cooperations are warmly welcome. If you want to join my group, please feel free to contact me via Email at scyer123@163.com.
-
