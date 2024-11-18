@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Song is currently an Associate Professor. He has conducted in-depth research in machine learning, intelligent signal processing, big data analysis, and deep learning. He has presided over the National Youth Fund (No. 40804112) and the Youth Project of Science and Technology Research Program of Chongqing Education Commission of China (No. KJQN202001143). At present, more than 30 pieces of SCI retrieval papers have been published in important journals and conferences at home and abroad, such as “Computer & Geoscience”，“Geophysical Prospecting”，“IEEE Geoscience and remote sensing letters” and “IEEE International Conference on acoustics, speech, and signal processing”.
+Song has conducted in-depth research in machine learning, intelligent signal processing, big data analysis, and deep learning. He has presided over the National Youth Fund and the Youth Project of Science and Technology Research Program of Chongqing Education Commission of China. At present, more than 30 pieces of SCI retrieval papers have been published in important journals and conferences at home and abroad, such as "Pattern Recognition Letters", “Computer & Geoscience”，“Geophysical Prospecting”，“IEEE Geoscience and remote sensing letters” and “IEEE International Conference on acoustics, speech, and signal processing”.
 
 # 📖 Educations & Employment Histroy
-- *2024.09 - 2025.06*: University of Science and Technology of China, Visiting Scholar, Supervisor: Wu Xinming
-- *2021.01 - 2024.05*: Joint postdoctoral fellow of Changan Automobile Co., Ltd. and Chongqing University, Supervisor: Feng Gang, Zhang Xiaohong
 - *2020.01 - now*: Chongqing University of Technology, Department of Big Data and Machine Learning, Associate Professor
 - *2018.01 - 2020.12*: Chongqing University of Technology, Department of Big Data and Machine Learning, Lecturer
+- *2024.09 - 2025.06*: University of Science and Technology of China, Visiting Scholar, Supervisor: Wu Xinming
+- *2021.01 - 2024.05*: Joint postdoctoral fellow of Changan Automobile Co., Ltd. and Chongqing University, Supervisor: Feng Gang, Zhang Xiaohong
 - *2013.09 - 2017.12*: University of Electronic Science and Technology of China, School of Information and Communication Engineering, Ph.D., Supervisor: Hu Guangmin, Li Xingming
 
 
@@ -35,11 +35,11 @@ Song is currently an Associate Professor. He has conducted in-depth research in 
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 Zhang Tian won the Second Prize in the Huawei Cup Graduate Mathematical Modeling Competition. 
-- *2024.06*: &nbsp;🎉🎉 Congratulations to Li Chengxi, Zhang Kai, Gou Pengfei and Gou Yi on obtaining their master's degrees. During their postgraduate period, they published three papers, won three postgraduate innovation projects and won the third prize in the Asia-Pacific Mathematical Modeling Competition.
+- *2024.06*: &nbsp;🎉🎉 Congratulations to Li Chengxi, Zhang Kai, Gou Pengfei and Gou Yi on obtaining their master's degrees. During their postgraduate period, they published three papers, won 3 postgraduate innovation projects and the third prize in the Asia-Pacific Mathematical Modeling Competition.
 - *2023.09*: &nbsp;🎉🎉 Congratulations to Li Lin and Qiu Lianpeng on winning the Excellent Master's Thesis Awards.
-- *2023.06*: &nbsp;🎉🎉 Congratulations to Li Lin, Qiu Lianpeng, Zhang Yin and Xiong Chuanchao on obtaining their master's degrees. During their postgraduate period, they published six SCI papers, won three postgraduate innovation projects and won the third prize in the National Mathematical Modeling Competition.
-- *2022.06*: &nbsp;🎉🎉 Congratulations to Wu Ziteng and Chen Yunqing on obtaining their master's degrees. During their postgraduate period, they published two papers and won one postgraduate innovation project.
-- *2021.06*: &nbsp;🎉🎉 Congratulations to Li Lingxuan on obtaining the master's degree. During the postgraduate period, published two SCI papers.
+- *2023.06*: &nbsp;🎉🎉 Congratulations to Li Lin, Qiu Lianpeng, Zhang Yin and Xiong Chuanchao on obtaining their master's degrees. During their postgraduate period, they published 6 SCI papers, won 3 postgraduate innovation projects and the third prize in the National Mathematical Modeling Competition.
+- *2022.06*: &nbsp;🎉🎉 Congratulations to Wu Ziteng and Chen Yunqing on obtaining their master's degrees. During their postgraduate period, they published 2 papers and won 1 postgraduate innovation project.
+- *2021.06*: &nbsp;🎉🎉 Congratulations to Li Lingxuan on obtaining the master's degree. During the postgraduate period, he published 2 SCI papers.
 
 # 📝 Publications 
 
@@ -52,12 +52,12 @@ Song is currently an Associate Professor. He has conducted in-depth research in 
 Qiu, Lianpeng, Cuipeng Qiu, and **Chengyun Song**
 
 **Details:** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This paper develop the extrema-based shape dynamic time warping (ESDTW) for the purpose of fast and accurate alignment of time series, and has pulished in Expert Systems with Applications 239 (2024): 122432. （SCI，JCR一区） 
+- This paper develop the extrema-based shape dynamic time warping (ESDTW) for the purpose of fast and accurate alignment of time series, and has pulished in Expert Systems with Applications 239 (2024): 122432. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423029342)（SCI，JCR一区） 
 </div>
 </div>
 
-- Aoxiang Ning, Minglong Xue, Jinhong He, Chengyun Song. "KAN see in the dark[J]." arXiv preprint arXiv:2409.03404, 2024.[paper](https://arxiv.org/abs/2409.03404)
-- Jinhong He, Minglong Xue, Aoxiang Ning, Chengyun Song. "Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement." Asian Conference on Machine Learning, Hanoi, Vietnam, 2024 (CCF-C)[paper](https://arxiv.org/abs/2403.02879)
+- Aoxiang Ning, Minglong Xue, Jinhong He, **Chengyun Song**. "KAN see in the dark." arXiv preprint arXiv:2409.03404, 2024. [paper](https://arxiv.org/abs/2409.03404)
+- Jinhong He, Minglong Xue, Aoxiang Ning, **Chengyun Song**. "Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement." Asian Conference on Machine Learning, Hanoi, Vietnam, 2024 (CCF-C) [paper](https://arxiv.org/abs/2403.02879)
 - Song, Chengyun, et al. "Regularized deep learning for unsupervised random noise attenuation in poststack seismic data." Journal of Geophysics and Engineering 21.1 (2024): 60-67. （SCI，JCR三区）
 
 2023
