@@ -44,6 +44,7 @@ Song has conducted in-depth research in machine learning, intelligent signal pro
 # 📝 Publications 
 
 2024
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ESDTW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -61,54 +62,57 @@ Qiu, Lianpeng, Cuipeng Qiu, and **Chengyun Song**
 - **Chengyun Song**, Shutao Guo, Chuanchao Xiong, Jiying Tuo. "Regularized deep learning for unsupervised random noise attenuation in poststack seismic data." Journal of Geophysics and Engineering 21.1 (2024): 60-67. [paper](https://academic.oup.com/jge/article/21/1/60/7420510)（SCI，JCR三区）
 
 2023
-- Li, Lin, Xiang Chen, and Chengyun Song. "A self-adaptive graph-based clustering method with noise identification." Pattern Analysis and Applications 26.3 (2023): 907-916. （SCI，JCR四区，CCF推荐期刊）
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ESDTW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/SDCLL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Self-paced deep clustering with learning loss](https://www.sciencedirect.com/science/article/abs/pii/S0167865523001289)
 
-Kai Zhang, Chengyun Song, and Lianpeng Qiu
+Kai Zhang, **Chengyun Song**, and Lianpeng Qiu
 
 **Details:** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A robust self-paced deep clustering algorithm, named SDCLL, is proposed.And has pulished in Pattern Recognition Letters 171 (2023): 8-14.[code](https://github.com/clustering106/SDCLL)
+- This paper propose a robust self-paced deep clustering algorithm that gradually increases the number of samples input into the network from easy to difficult, and has pulished in Pattern Recognition Letters 171 (2023): 8-14.[paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865523001289) [code](https://github.com/clustering106/SDCLL)
 </div>
 </div>
 
-- Li, Lin, Xiang Chen, and Chengyun Song. "NonPC: Non-parametric clustering algorithm with adaptive noise detecting." Intelligent Data Analysis 27.5 (2023): 1347-1358. （SCI，JCR四区，CCF推荐期刊）
+- Lin Li, Xiang Chen, **Chengyun Song**. "A self-adaptive graph-based clustering method with noise identification." Pattern Analysis and Applications 26.3 (2023): 907-916. [paper](https://link.springer.com/article/10.1007/s10044-023-01160-0)（SCI，四区，CCF推荐期刊）
+- Li, Lin, Xiang Chen, and **Chengyun Song**. "NonPC: Non-parametric clustering algorithm with adaptive noise detecting." Intelligent Data Analysis 27.5 (2023): 1347-1358. [paper](https://content.iospress.com/articles/intelligent-data-analysis/ida220427)（SCI，四区，CCF推荐期刊）
 
 2022
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ESDTW.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/PSND.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PSND: A Robust Parking Space Number Detector](https://ieeexplore.ieee.org/abstract/document/9956060)
 
-Yin Zhang, Chengyun Song, Minglong Xue
+Yin Zhang, **Chengyun Song**, Minglong Xue
 
 **Details:** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This paper proposes a robust Parking Space Number Detector (PSND), which enhances the Differentiable Binarization (DB) model by introducing a cascaded feature enhancement module and context attention block. 2022 26th International Conference on Pattern Recognition (ICPR), Montreal, QC, Canada, 2022, pp. 1742-1748.
+- This paper collected and annotated 9000 parking space number images, and proposes a robust parking space number detector (PSND) algorithm, which has publised in 2022 26th International Conference on Pattern Recognition (ICPR), 2022 [paper](https://ieeexplore.ieee.org/abstract/document/9956060)
 </div>
 </div>
 
-- Song, Chengyun, et al. "Dynamic subwindow matching: A new similarity measure for seismic facies analysis." Geophysical Prospecting 70.7 (2022): 1129-1142. （SCI，JCR三区）
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ESDTW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/CDKNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A robust clustering method with noise identification based on directed K-nearest neighbor graph](https://www.sciencedirect.com/science/article/abs/pii/S0925231222010049)
 
-Lin Li, Xiang Chen, Chengyun Song
+Lin Li, Xiang Chen, **Chengyun Song**
 
 **Details:** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This paper proposes a simple and effective clustering method termed CDKNN based on the k-nearest neighbor graph, which is conducive to processing complex nonlinear and tightly connected distributed patterns. And has pulished in Neurocomputing 508 (2022): 19-35. （SCI，JCR二区，CCF推荐期刊）
+- This paper proposes a robust clustering method with noise cutting based on directed k-nearest neighbor graph (CDKNN) to identify the desired cluster number automatically and produce reliable clustering results, and has pulished in Neurocomputing 508 (2022): 19-35. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222010049)（SCI, 二区, CCF推荐期刊）
 </div>
 </div>
 
+- **Chengyun Song**, Lianpeng Qiu, Yunqing Chen, Kunhong Li. "Dynamic subwindow matching: A new similarity measure for seismic facies analysis." Geophysical Prospecting 70.7 (2022): 1129-1142. [paper](https://www.earthdoc.org/content/journals/10.1111/1365-2478.13209)（SCI, 三区）
+
 before 2022
-- Song, Chengyun, et al. "Robust K-means algorithm with weighted window for seismic facies analysis." Journal of Geophysics and Engineering 18.5 (2021): 618-626. （SCI，JCR三区）
-- Song, Chengyun, et al. "Application of Dynamic Time Warping in Weighted Stacking of Seismic Data." IEEE Geoscience and Remote Sensing Letters 19 (2021): 1-5. （SCI，JCR二区）
-- Bin She, Yaojun Wang, Jiandong Liang, Zhining Liu, Chengyun Song, and Guangmin Hu. "A data-driven amplitude variation with offset inversion method via learned dictionaries and sparse representation[J]." Geophysics, 2018, 83(6): R725-R748.（SCI，JCR二区刊）
-- Chengyun Song, Zhining Liu, Yaojun Wang,et al. "Multi-waveform classification for seismic facies analysis[J]." Computers & Geosciences, 2017, 101: 1-9.（SCI，JCR二区）
+
+- **Song, Chengyun**, et al. "Robust K-means algorithm with weighted window for seismic facies analysis." Journal of Geophysics and Engineering 18.5 (2021): 618-626. [paper](https://academic.oup.com/jge/article/18/5/618/6355275)（SCI, 三区）
+- **Song, Chengyun**, et al. "Application of Dynamic Time Warping in Weighted Stacking of Seismic Data." IEEE Geoscience and Remote Sensing Letters 19 (2021): 1-5. [paper](https://ieeexplore.ieee.org/abstract/document/9440680/)（SCI, 二区）
+- Bin She, Yaojun Wang, Jiandong Liang, Zhining Liu, **Chengyun Song**, and Guangmin Hu. "A data-driven amplitude variation with offset inversion method via learned dictionaries and sparse representation." Geophysics, 2018, 83(6): R725-R748. [paper](https://library.seg.org/doi/abs/10.1190/geo2017-0615.1)（SCI, 二区）
+- **Song, Chengyun**, et al. "Adaptive phase k-means algorithm for waveform classification." Exploration Geophysics 49.2 (2018): 213-219. [paper](https://www.tandfonline.com/doi/abs/10.1071/EG16111)（SCI, 四区）
+- **Chengyun Song**, et al. "Multi-waveform classification for seismic facies analysis." Computers & Geosciences, 2017, 101: 1-9. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0098300416308639)（SCI, 二区）
 
 
 
