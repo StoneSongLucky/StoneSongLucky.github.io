@@ -20,7 +20,7 @@ redirect_from:
 Song has conducted in-depth research in machine learning, intelligent signal processing, big data analysis, and deep learning. He has presided over the National Youth Fund and the Youth Project of Science and Technology Research Program of Chongqing Education Commission of China. At present, more than 30 pieces of SCI retrieval papers have been published in important journals and conferences at home and abroad, such as "Pattern Recognition Letters", “Computer & Geoscience”，“Geophysical Prospecting”，“IEEE Geoscience and remote sensing letters” and “IEEE International Conference on acoustics, speech, and signal processing”.
 
 
-<span class='anchor' id='educations-&-employment-histroy'></span>
+<span class='anchor' id='educations-and-employment-histroy'></span>
 # 📖 Educations and Employment Histroy
 - *2020.01 - now*: Chongqing University of Technology, Department of Big Data and Machine Learning, Associate Professor
 - *2018.01 - 2020.12*: Chongqing University of Technology, Department of Big Data and Machine Learning, Lecturer
