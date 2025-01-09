@@ -38,7 +38,7 @@ Song has conducted in-depth research in machine learning, intelligent signal pro
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 Seven of our students won one first prize and two second prizes at the university level in the Huawei Cup National Graduate Student Mathematical Modeling Competition.
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/2024.12Mathematical Modeling.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/2025.01Mathematical Modeling.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 </div>
