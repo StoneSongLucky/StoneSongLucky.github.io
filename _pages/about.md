@@ -38,6 +38,7 @@ Song has conducted in-depth research in machine learning, intelligent signal pro
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 Seven of our students won one first prize and two second prizes at the university level in the Huawei Cup National Graduate Student Mathematical Modeling Competition.
+
 <img src="/images/2025.01Mathematical Modeling.png" alt="sym" style="width: 50%; height: auto;">
 - *2024.11*: &nbsp;🎉🎉 Zhang Tian won the Second Prize in the Huawei Cup Graduate Mathematical Modeling Competition. 
 - *2024.06*: &nbsp;🎉🎉 Congratulations to Li Chengxi, Zhang Kai, Gou Pengfei and Gou Yi on obtaining their master's degrees. During their postgraduate period, they published three papers, won 3 postgraduate innovation projects and the third prize in the Asia-Pacific Mathematical Modeling Competition.
