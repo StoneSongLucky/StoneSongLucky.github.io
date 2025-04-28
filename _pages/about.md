@@ -22,11 +22,12 @@ Song has conducted in-depth research in machine learning, intelligent signal pro
 
 <span class='anchor' id='educations-and-employment-histroy'></span>
 # 📖 Educations and Employment Histroy
-- *2020.01 - now*: Chongqing University of Technology, Department of Big Data and Machine Learning, Associate Professor
-- *2018.01 - 2020.12*: Chongqing University of Technology, Department of Big Data and Machine Learning, Lecturer
+- *2025.02 - 2026.02*: Auckland University of Technology, New Zeeland, Visiting Scholar, Supervisor: Yu Jian
 - *2024.09 - 2025.06*: University of Science and Technology of China, Visiting Scholar, Supervisor: Wu Xinming
 - *2021.01 - 2024.05*: Joint postdoctoral fellow of Changan Automobile Co., Ltd. and Chongqing University, Supervisor: Feng Gang, Zhang Xiaohong
-- *2013.09 - 2017.12*: University of Electronic Science and Technology of China, School of Information and Communication Engineering, Ph.D., Supervisor: Hu Guangmin, Li Xingming
+- *2020.01 - now*: Chongqing University of Technology, Department of Big Data and Machine Learning, Associate Professor
+- *2018.01 - 2020.12*: Chongqing University of Technology, Department of Big Data and Machine Learning, Lecturer
+- *2013.09 - 2017.12*: University of Electronic Science and Technology of China, Ph.D., Supervisor: Hu Guangmin, Li Xingming
 
 <span class='anchor' id='research-interests'></span>
 # 💻 Research Interests
