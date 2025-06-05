@@ -42,7 +42,7 @@ Song has conducted in-depth research in machine learning, intelligent signal pro
 - *2025.06*: &nbsp;🎉🎉 Congratulations to Zhong Zhipeng and Guo Shutao on obtaining their master's degrees. Since I was abroad, it's a pity I couldn't take a photo with you.
 
 <div style="text-align:center;">
-    <img src="/images/202506Together.jpg" alt="sym" style="width: 50%; height: auto;">
+    <img src="/images/202506Together.png" alt="sym" style="width: 50%; height: auto;">
 </div>
 
 - *2025.01*: &nbsp;🎉🎉 Seven of our students won one first prize and two second prizes at the university level in the Huawei Cup National Graduate Student Mathematical Modeling Competition.
