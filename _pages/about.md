@@ -38,6 +38,12 @@ Song has conducted in-depth research in machine learning, intelligent signal pro
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 Congratulations to Zhang Tian, Cao Yifei, and Liu Lun for winning the National Second Prize in the 22nd China Postgraduate Mathematical Contest in Modeling (the "Huawei Cup"). 
+
+<div style="text-align:center;">
+    <img src="/images/202512HUAWEIBEI.png" alt="sym" style="width: 50%; height: auto;">
+</div>
+
 - *2025.06*: &nbsp;🎉🎉 Congratulations to Yang Guo on the acceptance of the paper "SC-BSN: Shifted Convolutions Based Blind-Spot Network for Self-Supervised Image Denoising" by Neurocomputing.
 - *2025.06*: &nbsp;🎉🎉 Congratulations to Zhong Zhipeng and Guo Shutao on obtaining their master's degrees. Since I was abroad, it's a pity I couldn't take a photo with you.
 
