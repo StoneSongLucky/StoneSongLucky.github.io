@@ -76,6 +76,23 @@ Song has conducted in-depth research in machine learning, intelligent signal pro
 
 # 📝 Publications 
 
+2025
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/SCBSN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SC-BSN: Shifted Convolutions Based Blind-Spot Network for self-supervised image denoising](https://www.sciencedirect.com/science/article/abs/pii/S0925231225013864)
+
+Yang Guo, **Song Chengyun**, Xue Minglong and Yu Jian
+
+**Details:** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This paper designed multi-branch directional shifted operations to create blind spots in different regions and proposed the Shifted Convolutions Blind-Spot Network (SC-BSN) for self-supervised denoising, which pulished in Neurocomputing 648 (2025): 130714. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225013864)（SCI, 二区） 
+</div>
+</div>
+
+- Aoxiang Ning, Minglong Xue, Jinhong He, **Chengyun Song**. "KAN see in the dark." IEEE Signal Processing Letters(2025). [paper](https://arxiv.org/abs/2409.03404)
+- Xie, Peiqi, Minglong Xue, and **Chengyun Song**. "A novel Half-To-All MOTR approach for robust video text tracking with incomplete annotations" The Visual Computer 41.11 (2025): 8659-8671.[paper](https://link.springer.com/article/10.1007/s00371-025-03890-0)
+
 2024
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ESDTW.png' alt="sym" width="100%"></div></div>
@@ -90,7 +107,6 @@ Qiu, Lianpeng, Cuipeng Qiu, and **Chengyun Song**
 </div>
 </div>
 
-- Aoxiang Ning, Minglong Xue, Jinhong He, **Chengyun Song**. "KAN see in the dark." arXiv preprint arXiv:2409.03404, 2024. [paper](https://arxiv.org/abs/2409.03404)
 - Jinhong He, Minglong Xue, Aoxiang Ning, **Chengyun Song**. "Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement." Asian Conference on Machine Learning, Hanoi, Vietnam, 2024  [paper](https://arxiv.org/abs/2403.02879) (CCF推荐国际会议)
 - **Chengyun Song**, Shutao Guo, Chuanchao Xiong, Jiying Tuo. "Regularized deep learning for unsupervised random noise attenuation in poststack seismic data." Journal of Geophysics and Engineering 21.1 (2024): 60-67. [paper](https://academic.oup.com/jge/article/21/1/60/7420510)（SCI, JCR三区）
 
@@ -139,7 +155,7 @@ Lin Li, Xiang Chen, **Chengyun Song**
 
 - **Chengyun Song**, Lianpeng Qiu, Yunqing Chen, Kunhong Li. "Dynamic subwindow matching: A new similarity measure for seismic facies analysis." Geophysical Prospecting 70.7 (2022): 1129-1142. [paper](https://www.earthdoc.org/content/journals/10.1111/1365-2478.13209)（SCI, 三区）
 
-before 2022
+Before 2022
 
 - **Song, Chengyun**, et al. "Robust K-means algorithm with weighted window for seismic facies analysis." Journal of Geophysics and Engineering 18.5 (2021): 618-626. [paper](https://academic.oup.com/jge/article/18/5/618/6355275)（SCI, 三区）
 - **Song, Chengyun**, et al. "Application of Dynamic Time Warping in Weighted Stacking of Seismic Data." IEEE Geoscience and Remote Sensing Letters 19 (2021): 1-5. [paper](https://ieeexplore.ieee.org/abstract/document/9440680/)（SCI, 二区, CCF推荐期刊）
