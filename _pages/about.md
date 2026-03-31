@@ -42,7 +42,7 @@ Song has conducted in-depth research in machine learning, intelligent signal pro
 - *2026.03*: &nbsp;🎉🎉 It was a great pleasure to meet our new graduate students back home. Our freshmen are energetic, optimistic, and cheerful. In the coming three years, we will work together toward progress. I look forward to your personal growth, fruitful achievements, and a fulfilling graduate experience. Keep striving!. 
 
 <div style="text-align:center;">
-    <img src="/images/mingyuehu202603.jpg" alt="sym" style="width: 50%; height: auto;">
+    <img src="/images/mingyuehu202603.png" alt="sym" style="width: 50%; height: auto;">
 </div>
 
 - *2025.12*: &nbsp;🎉🎉 Congratulations to Zhang Tian, Cao Yifei, and Liu Lun for winning the National Second Prize in the 22nd China Postgraduate Mathematical Contest in Modeling (the "Huawei Cup"). 
