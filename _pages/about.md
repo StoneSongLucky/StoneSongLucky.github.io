@@ -86,7 +86,7 @@ Song has conducted in-depth research in machine learning, intelligent signal pro
 Yang Guo, **Song Chengyun**, Xue Minglong and Yu Jian
 
 **Details:** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This paper designed multi-branch directional shifted operations to create blind spots in different regions and proposed the Shifted Convolutions Blind-Spot Network (SC-BSN) for self-supervised denoising, which pulished in Neurocomputing 648 (2025): 130714. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225013864)（SCI, 二区） 
+- This paper designed multi-branch directional shifted operations to create blind spots in different regions and proposed the Shifted Convolutions Blind-Spot Network for self-supervised denoising, which pulished in Neurocomputing. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225013864)
 </div>
 </div>
 
