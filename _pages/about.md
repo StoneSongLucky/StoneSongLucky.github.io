@@ -39,6 +39,10 @@ Song has conducted in-depth research in machine learning, intelligent signal pro
 <span class='anchor' id='news'></span>
 # 🔥 News
 
+- *2026.09*: &nbsp;🎉🎉 One paper "PSD-Net: A Physics and Structure Guided Dual-Stream Transformer for 3D Seismic Denoising" has been accepted for publication in IEEE Geoscience and Remote Sensing Letters.
+
+- *2026.05*: &nbsp;🎉🎉 One paper "DiffGCC: Diffusion-Enhanced Global–Local Graph Contrastive Clustering" has been accepted for publication in Pattern Analysis and Applications.
+
 - *2026.03*: &nbsp;🎉🎉 It was a great pleasure to meet our new graduate students back home. Our freshmen are energetic, optimistic, and cheerful. In the coming three years, we will work together toward progress. I look forward to your personal growth, fruitful achievements, and a fulfilling graduate experience. Keep striving!. 
 
 <div style="text-align:center;">
