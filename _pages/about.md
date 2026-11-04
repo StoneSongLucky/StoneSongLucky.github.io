@@ -33,6 +33,7 @@ Song has conducted in-depth research in machine learning, intelligent signal pro
 # 💻 Research Interests
 - Intelligent Signal Analysis
 - Cluster Analysis
+- Multispectral Image Fusion
 - Image Denoising
 - Computer Vision
 
